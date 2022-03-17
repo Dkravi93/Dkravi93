@@ -1,5 +1,5 @@
-- ![time](time.gif)
-- </br>
+ ![time](time.gif)
+ </br>
 - ### Hi, I’m Deepak 👋
 - ## I'm a Full-stack Software Developer and Javascript Enthusiast!
 - 👀 I’m interested in exploring diverse field of web devlopment and becoming a pro in mern stack
