@@ -1,6 +1,6 @@
- ![time](time.gif)   - ### Hi, I’m Deepak 👋
+                                          - ### Hi, I’m Deepak 👋
                                           - ## I'm a Full-stack Software Developer and Javascript Enthusiast!
-                                          - 👀 I’m interested in exploring diverse field of web devlopment and becoming a pro in mern stack
+  ![time](time.gif)                       - 👀 I’m interested in exploring diverse field of web devlopment and becoming a pro in mern stack
                                           - 🌱 I’m currently learning at MASAI SCHOOL, a mastery based programme on Full Stack Web Devlopment
                                           - 💞️ I’m looking to collaborate on variety of web application
                                           - 📫 Reach me on my email 'Dpakravi93@gmail.com'
