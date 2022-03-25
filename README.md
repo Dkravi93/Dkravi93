@@ -2,22 +2,23 @@
 
   ![time](time.gif)        
   
-I'm a Full-stack Software Developer and Javascript Enthusiast!
+## I'm a Full-stack Software Developer and Javascript Enthusiast!
 
-👀 I’m interested in exploring diverse field of web devlopment and becoming a pro in mern stack
+## 👀 I’m interested in exploring diverse field of web devlopment and becoming a pro in mern stack
 
-🌱 I’m currently learning at MASAI SCHOOL, a mastery based programme on Full Stack Web Devlopment
+## 🌱 I’m currently learning at MASAI SCHOOL, a mastery based programme on Full Stack Web Devlopment
 
-💞️ I’m looking to collaborate on variety of web application
+## 💞️ I’m looking to collaborate on variety of web application
 
-📫 Reach me on my email 'Dpakravi93@gmail.com
+## 📫 Reach me on my email 'Dpakravi93@gmail.com
 
 
   ### Connect with me:
 
+<a href= "https://www.linkedin.com/in/deepak-ravi93/?originalSubdomain=in"><img align="left" alt="" width="22px" src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png" /></a>
 <a href= "https://medium.com/@dpakravi93/unit-3-construct-week-at-masai-school-58037c918062"><img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
 <a href= "https://twitter.com/DkRavi_3"><img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href= "https://www.instagram.com/dkravir/"><img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+
   
   
 
