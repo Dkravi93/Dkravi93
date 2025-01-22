@@ -1,6 +1,4 @@
-### Hi, I’m Deepak 👋  
-
-  ![time](time.gif)        
+### Hi, I’m Deepak 👋    
   
 ## I'm a Full-stack Software Developer and Javascript Enthusiast!
 
